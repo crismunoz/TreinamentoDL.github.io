@@ -16,16 +16,12 @@ O aluno estudará os conceitos básicos de:
 -- Visão computacional
 -- Técnicas de Localização e Detecção de Objetos
 
-<iframe id="ytplayer" type="text/html" width="600" height="405"
-src="https://www.youtube.com/embed/?listType=playlist&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&index=21"
-frameborder="0" allowfulllscreen>
+[![Coursera](http://img.youtube.com/vi/3Pv66biqc1E/0.jpg)](https://www.youtube.com/embed/?listType=playlist&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&index=21 "Coursera")
 
 - Prática (Aula 1 até 6): [[YouTube](https://www.youtube.com/watch?v=COlbP62-B-U&t)]
 -- Tensorflow API for Object Detection
 
-<iframe id="ytplayer" type="text/html" width="600" height="405"
-src="https://www.youtube.com/embed/?listType=playlist&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku"
-frameborder="0">
+[![Coursera](http://img.youtube.com/vi/COlbP62-B-U/0.jpg)](https://www.youtube.com/embed/?listType=playlist&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku "Coursera")
 
 ### 4. Monitoramento:
 Cada aulno indicará o estado real do avance no Google Sheet: [[Alunos-Tarefas - Planilhas Google](https://docs.google.com/spreadsheets/d/11fbRySoJuG0CnTu0jJHn7ZFN3-8SFxrO1SlOwSAroEE/edit?usp=sharing)]
