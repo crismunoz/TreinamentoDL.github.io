@@ -3,7 +3,7 @@ Sumário:
 
 - Python:
 
-  -- Módulo 1: Introdução [[TrainPython.md.md](TrainPython.md.md)]
+  -- Módulo 1: Introdução [[TrainPython.md](TrainPython.md)]
   
 - Deep Learning:
 
