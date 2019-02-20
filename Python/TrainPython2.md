@@ -17,7 +17,8 @@ Vídeo 1-9 (2hrs 2min)
 **Referencia (Pmw)**
 [How to use Pmw megawidgets](https://www.slac.stanford.edu/grp/cd/soft/pmw/howtouse.html)
 
-- Pessoal (Capacitação):
+Só Pessoal (Capacitação):
+
 -- Tarefa 2: Implementar um reprodutor de Vídeo
 
 
