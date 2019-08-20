@@ -41,5 +41,9 @@ Exemplos:
 --[Top 10 Car Race On Highway!](https://www.youtube.com/watch?v=mQf1DhSbHfI)
 --[Epic downhill road bike race - 100 overtakes](https://www.youtube.com/watch?v=2L8lZq9UepM)
 
+Exemplo de vídeo processado:
+
+[![Youtube](http://img.youtube.com/vi/5Z3qkiwnw6M/0.jpg)](https://www.youtube.com/watch?v=5Z3qkiwnw6M)
+
 Outros exemplos podem ser usados previamente consultando a:
 Cristian Muñoz V.: crisstrink@gmail.com
